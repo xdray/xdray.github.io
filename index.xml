@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无所求则无所得</title>
+    <link>https://xdray.github.io/</link>
+    <description>Recent content on 无所求则无所得</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2019 11:49:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://xdray.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为什么要坚持写博客</title>
+      <link>https://xdray.github.io/2019/09/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9D%9A%E6%8C%81%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 23 Sep 2019 11:49:14 +0800</pubDate>
+      
+      <guid>https://xdray.github.io/2019/09/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9D%9A%E6%8C%81%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
+      <description>路曼曼其修远兮，吾将上下而求索。现在已经是2019年1月3号了，新的一年要有新气象。这和写博客又有什么关系呢？早在2018年中旬（或者是年初），我也曾经创建博客，还注册了自己的域名；在此基础上曾完成过两篇学习笔记类的博客&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
